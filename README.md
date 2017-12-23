@@ -1,8 +1,7 @@
-# Fall 2017
-# ECSE543-NumericalMethod
-## Assignemnt 1: 
-LU decomposition, Cholesky decomposition, finite difference 
-## Assignemnt 2: 
-Finite element, conjugate gradient
-## Assignment 3: 
+# fall 2017, ecse543 numerical method
+## assignemnt 1: 
+lu decomposition, cholesky decomposition, finite difference 
+## assignemnt 2: 
+finite element, conjugate gradient
+## assignment 3: 
 interpolation, numerical itegration
